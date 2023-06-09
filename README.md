@@ -1,4 +1,4 @@
-**# Developing-Layouts-Advanced Technologies Cover Page**
+# Advance-Technology-cover-Page
 
 In this assignment, let's build an Advanced Technologies Cover Page by applying the concepts we learned till now. You can use the Bootstrap concepts as well.
 
